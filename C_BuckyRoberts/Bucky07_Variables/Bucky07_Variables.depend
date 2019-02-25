@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551063589 source:c:\git\c_programming\c_buckyroberts\bucky07_variables\main.c
+	<stdio.h>
+	<stdlib.h>
+
