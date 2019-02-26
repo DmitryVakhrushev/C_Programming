@@ -1,3 +1,1 @@
-﻿  Main.c
-c:\222\hellofromc\hellofromc\main.c(8): warning C4098: 'main': 'void' function returning a value
-  HelloFromC.vcxproj -> C:\222\HelloFromC\Debug\HelloFromC.exe
+﻿  HelloFromC.vcxproj -> C:\Git\C_Programming\HelloFromC\Debug\HelloFromC.exe

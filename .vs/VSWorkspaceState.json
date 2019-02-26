@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C_BuckyRoberts"
+    "\\C_BuckyRoberts",
+    "\\C_BuckyRoberts\\Bucky05_Comments\\obj",
+    "\\HelloFromC",
+    "\\HelloFromC\\Debug"
   ],
-  "SelectedNode": "\\C_BuckyRoberts\\ Bucky06_ConversionCharacters",
+  "SelectedNode": "\\HelloFromC\\HelloFromC.sln",
   "PreviewInSolutionExplorer": false
 }
