@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551150918 source:c:\git\c_programming\c_buckyroberts\bucky06_conversioncharacters\main.c
+	<stdio.h>
+	<stdlib.h>
+
