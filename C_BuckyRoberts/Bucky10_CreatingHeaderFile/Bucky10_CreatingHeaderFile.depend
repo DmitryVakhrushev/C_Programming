@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1551298998 source:c:\git\c_programming\c_buckyroberts\bucky10_creatingheaderfile\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BuckysInfo.h"
+
+1551298998 c:\git\c_programming\c_buckyroberts\bucky10_creatingheaderfile\buckysinfo.h
+
