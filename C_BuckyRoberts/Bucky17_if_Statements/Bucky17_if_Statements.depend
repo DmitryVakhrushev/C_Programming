@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553007437 source:c:\git\c_programming\c_buckyroberts\bucky17_if_statements\main.c
+	<stdio.h>
+	<stdlib.h>
+
