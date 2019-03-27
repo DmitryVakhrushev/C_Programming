@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553717306 source:c:\git\c_programming\c_buckyroberts\bucky21_logical_and\main.c
+	<stdio.h>
+	<stdlib.h>
+
