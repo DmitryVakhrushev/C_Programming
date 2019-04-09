@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554819364 source:c:\git\c_programming\c_buckyroberts\bucky35_puts_gets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
