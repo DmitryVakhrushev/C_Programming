@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555432034 source:c:\git\c_programming\c_buckyroberts\bucky43_dereferencepointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
