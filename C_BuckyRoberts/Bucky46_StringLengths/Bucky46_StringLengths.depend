@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555597200 source:c:\git\c_programming\c_buckyroberts\bucky46_stringlengths\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
