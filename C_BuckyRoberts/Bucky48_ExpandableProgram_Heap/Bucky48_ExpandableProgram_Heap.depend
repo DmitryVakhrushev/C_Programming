@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556030933 source:c:\git\c_programming\c_buckyroberts\bucky48_expandableprogram_heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
