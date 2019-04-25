@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556206607 source:c:\git\c_programming\c_buckyroberts\bucky49_structures\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BuckysInfo.h"
+
+1556204376 c:\git\c_programming\c_buckyroberts\bucky49_structures\buckysinfo.h
+
