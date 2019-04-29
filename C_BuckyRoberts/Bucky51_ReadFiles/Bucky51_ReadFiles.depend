@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556547077 source:c:\git\c_programming\c_buckyroberts\bucky51_readfiles\main.c
+	<stdio.h>
+	<stdlib.h>
+
