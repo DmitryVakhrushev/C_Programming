@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556635080 source:c:\git\c_programming\c_buckyroberts\bucky56_passingargumentstofunctions\main.c
+	<stdio.h>
+	<stdlib.h>
+
