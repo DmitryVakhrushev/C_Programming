@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Caleb13_BasicTypeCasting", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Caleb14_Strings", "Caleb14_Strings\Caleb14_Strings.vcxproj", "{E881941F-FC64-4099-BBD1-4402228E4FDE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Caleb15_Functions", "Caleb15_Functions\Caleb15_Functions.vcxproj", "{6B0B0779-0A4C-452D-B51F-844F8490041F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{E881941F-FC64-4099-BBD1-4402228E4FDE}.Release|x64.Build.0 = Release|x64
 		{E881941F-FC64-4099-BBD1-4402228E4FDE}.Release|x86.ActiveCfg = Release|Win32
 		{E881941F-FC64-4099-BBD1-4402228E4FDE}.Release|x86.Build.0 = Release|Win32
+		{6B0B0779-0A4C-452D-B51F-844F8490041F}.Debug|x64.ActiveCfg = Debug|x64
+		{6B0B0779-0A4C-452D-B51F-844F8490041F}.Debug|x64.Build.0 = Debug|x64
+		{6B0B0779-0A4C-452D-B51F-844F8490041F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B0B0779-0A4C-452D-B51F-844F8490041F}.Debug|x86.Build.0 = Debug|Win32
+		{6B0B0779-0A4C-452D-B51F-844F8490041F}.Release|x64.ActiveCfg = Release|x64
+		{6B0B0779-0A4C-452D-B51F-844F8490041F}.Release|x64.Build.0 = Release|x64
+		{6B0B0779-0A4C-452D-B51F-844F8490041F}.Release|x86.ActiveCfg = Release|Win32
+		{6B0B0779-0A4C-452D-B51F-844F8490041F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
