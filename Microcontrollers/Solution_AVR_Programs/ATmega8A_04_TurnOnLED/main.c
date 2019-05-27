@@ -17,11 +17,11 @@ int main(void)
 	*/
 	
 	// Set port direction (in or out)
-	DDRC = 0b0000001; // set the PC0 = "out". (Port C has 7 bits)
-	DDRB = 0b10001001; // set the PB0, PB3, PB7 = "out". (Port B has 8 bits)
+	DDRC = 0b0000001; // set the PC0 = "out". (Port "C" has 7 bits)
+	DDRB = 0b10001001; // set the PB0, PB3, PB7 = "out". (Port "B" has 8 bits)
 	
 	// Set port voltage (+5V)
-	PORTC = 0b0000001; // set +5V for PCO
+	PORTC = 0b0000001; // set +5V for PC0
 	
 	while (1) // always true condition
     {
